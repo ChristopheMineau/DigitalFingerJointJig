@@ -36,10 +36,13 @@ and a strong anti-bouncing algorythm.
 I am thinking now that I should have gone the magnetic/hall effect sensor way ...  
 
 # Known issues
-In the shop environment (proximity of the table saw motor), I have some time to time some erratic behaviors,
+In the shop environment (proximity of the table saw motor), I have from time to time some erratic behaviors,
 thought this is quite rare.  
 
 # TODO
 Redo the rotary sensor using hall effect sensors.  
+
+# ReUse
+Feel free to re-use and send me a feed back in case of success :)
 
 
