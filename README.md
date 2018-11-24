@@ -5,7 +5,7 @@ Arduino code and other files for my Digital Finger Joint Jig woodworking machine
 This project is both a hardware and Software project.  
 It is related to woodworking tooling.  
 The final goal is to accurately make finger joints of any width, with any blade width.  
-(If this sounds chineese to you so far ... you're free to pass your way ...)  
+(If this sounds weird to your ears so far ... you're free to pass your way ...)  
 
 The project is fully described on this post on the tooling encyclopaedia homemadetools.net :  
 http://www.homemadetools.net/forum/new-kind-digital-finger-joint-jig-63733#post99890
