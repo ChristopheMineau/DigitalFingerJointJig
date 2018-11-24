@@ -11,7 +11,7 @@ The project is fully described on this post on the tooling encyclopaedia homemad
 http://www.homemadetools.net/forum/new-kind-digital-finger-joint-jig-63733#post99890
 
 # About Me
-This is personnal work from Christophe Mineau, I am an amateur craftsman and make.  
+This is personnal work from Christophe Mineau, I am an amateur craftsman and maker.  
 I am in the mean time a professional software designer.  
 Most of my craft work is published on my Website : www.labellenote.fr  
 Most of my tooling work is also published on HomeMadeTools.net : http://www.homemadetools.net/builder/Christophe+Mineau   
